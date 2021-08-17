@@ -1,0 +1,10 @@
+利用Adguard浏览器插件来屏蔽B站的广告
+
+在浏览器安装Adguard插件，然后在Adguard设置-用户过滤器中输入以下内容
+
+bilibili.com##.ad-report
+bilibili.com###reportFirst2
+t.bilibili.com##.ad-report
+t.bilibili.com###reportFirst2
+
+完毕
